@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tasnim301
-- 👀 I’m interested in learning and growing as a developer. I may be new, but i'm eager to contribute to open source projects and collaborate with others.
+- 👀 I’m interested in learning and growing as a developer.
 - 🌱 I’m currently learning Python, HTML/CSS, JAVA, PHP and getting familiar with version control systems like Git.
 - 💞️ I’m looking to collaborate on beginner-friendly open-source projects to gain practical expeerience.
 - 📫 How to reach me? email tasnimtouati301@gmail.com
